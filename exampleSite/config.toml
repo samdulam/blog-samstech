@@ -1,7 +1,7 @@
 ######################## default configuration ####################
 baseURL = "https://demo.gethugothemes.com/touchy/examplesite/"
 title = "Touchy Hugo | Minimal Blog Theme"
-theme = "touchy-hugo"
+theme = "blog-samstech"
 # post pagination
 paginate = "3"
 # post excerpt
